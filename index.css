@@ -1,4 +1,6 @@
-h1 {
-    font-size: 12px;
-    font-size: 14px;
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
 }
